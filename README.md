@@ -12,9 +12,11 @@ The Weatherly enables users to:
 
 ## 🌟 Features
 - **Real-Time Data**: Fetches and displays current weather information.
+- **Current Location Weather**: Automatically detects and displays weather details for the user’s current location if clicked on use current location.
 - **Responsive Design**: Adapts to different devices for a seamless user experience.
 - **Weather Icons**: Visual cues to represent weather conditions (sunny, rainy, cloudy, etc.).
 - **City-Based Search**: Allows users to get weather updates for specific cities.
+
 
 ## 🛠️ Technologies Used
 - **HTML**: Structures the main layout.
@@ -25,19 +27,19 @@ The Weatherly enables users to:
 ## 📸 Screenshots
 
 **Search Weather**  
-![Search Weather](./screenshots/search-weather.png)  
+![Search Weather](./screenshots/Screenshot%20(226).png)  
 *Enter a city name to get the latest weather information.*
 
 **Weather Display**  
-![Weather Display](./screenshots/weather-display.png)  
+![Weather Display](./screenshots/Screenshot%20(227).png)  
 *Detailed weather information with temperature, wind speed, and conditions.*
 
 **Responsive View**  
-![Responsive View](./screenshots/responsive-view.png)  
+![Responsive View](./screenshots/Screenshot%20(229).png)  
 *Optimized display on mobile devices.*
 
 ## 🚀 How to Use
-1. Enter the name of a city in the search bar.
+1. Enter the name of a city in the search bar or click current location.
 2. Press "Search" to retrieve the weather information.
 3. View the current temperature, weather conditions, and other details.
 
